@@ -1,0 +1,24 @@
+img:hover {
+    background-color: orange;
+}
+
+audio {
+    border-radius: 5%;
+}
+
+a:link  {
+    color: green;
+
+}
+a:visited {
+    color: red;
+}
+a:hover {
+    color: orange;
+}
+a:active {
+    color: yellow;
+}
+tr {
+    text-align: center;
+}
